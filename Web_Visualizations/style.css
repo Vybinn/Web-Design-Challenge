@@ -1,0 +1,43 @@
+
+body {
+    background: #e6a3bde3;
+    color: #443232;
+    font-weight: 300;
+    font-size: 16px;
+    font-family: 'Marker Felt', fantasy;
+    
+}
+
+.dropdown-menu {
+    color: gold
+}
+
+.navbar-brand{
+    font-family: "Marker Felt", fantasy;
+    background-color: aqua;
+    color: rgb(21, 24, 17);
+	font-weight: 800;
+	font-size: 20px;
+    margin-left: auto;
+    
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.footer{
+    background-color:#2d3238;
+    color: white;
+	border-radius: .3rem;
+	text-align: center;
+	padding: 5px 5px;
+}
+
+#myCarousel{
+    background-color: black;
+}
